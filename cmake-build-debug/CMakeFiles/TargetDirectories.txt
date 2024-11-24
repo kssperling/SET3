@@ -1,0 +1,3 @@
+/Users/kseniasperling/CLionProjects/SET3/cmake-build-debug/CMakeFiles/SET3.dir
+/Users/kseniasperling/CLionProjects/SET3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kseniasperling/CLionProjects/SET3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
