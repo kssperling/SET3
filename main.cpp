@@ -44,6 +44,7 @@ double monteCarlo(double xMin, double xMax, double yMin, double yMax,
     return estimated;
 }
 
+
 int main() {
     // Параметры прямоугольной области (широкой и узкой)
     double xMinWide = 0.0, xMaxWide = 3.0, yMinWide = 0.0, yMaxWide = 3.0;
