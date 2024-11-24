@@ -52,7 +52,6 @@ int main() {
     // Диапазон количества точек
     int start = 100, end = 100000, step = 500;
 
-
     for (int numPoints = start; numPoints <= end; numPoints += step) {
         double relativeErrorWide, relativeErrorNarrow;
 
